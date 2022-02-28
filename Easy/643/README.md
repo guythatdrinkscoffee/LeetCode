@@ -15,4 +15,4 @@ Explanation: Maximum average is (12 - 5 - 6 + 50) / 4 = 51 / 4 = 12.75
 
 ## Solution
 
-Pattern Used: Sliding Window
+Pattern used: Sliding Window

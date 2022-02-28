@@ -19,4 +19,4 @@ The minimum possible difference is 0.
 
 ## Solution
 
-Pattern Used: Sorting & Sliding Window.
+Pattern used: Sorting & Sliding Window.
